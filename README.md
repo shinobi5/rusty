@@ -1,1 +1,1 @@
-# learning-rust
+# :smiling_imp: Learning Rust
