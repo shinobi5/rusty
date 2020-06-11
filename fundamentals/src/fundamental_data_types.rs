@@ -21,7 +21,7 @@ pub fn fundamental_data_types() {
   let size_of_z = mem::size_of_val(&z);
   println!("z = {}, takes up {} bytes, {}-bit os", z, size_of_z, size_of_z * 8);
 
-  let d:char = 'x'; // can be let d and rust will figure out that it"s a character
+  let d:char = 'x'; // can be let d and rust will figure out that it's a character
   println!("d = {}, size = {} bytes", d,  mem::size_of_val(&d));
 
   let e  = 2.5; // double-precision, 8 bytes or 64 bits, f64
