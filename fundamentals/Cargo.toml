@@ -1,5 +1,5 @@
 [package]
-name = "rust-fundamentals"
+name = "fundamentals"
 version = "0.1.0"
 authors = ["shinobi5"]
 edition = "2018"
