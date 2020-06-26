@@ -27,3 +27,12 @@ Resources, notes and code related to learning the rust programming language
 - [Rust-Like Borrowing with 2nd-Class Values (Short Paper)](https://dl.acm.org/doi/pdf/10.1145/3136000.3136010)
 - [Safe Systems Programming in Rust:The Promise and the Challenge](https://robbertkrebbers.nl/research/articles/safe_programming_rust.pdf)
 - [Fearless Concurrency? Understanding Concurrent Programming Safety in Real-World Rust Software](https://arxiv.org/pdf/1902.01906.pdf)
+
+### Learning
+- **Articles**
+  - [Rust Anthology: rust blogs and blog posts](https://github.com/brson/rust-anthology/blob/master/master-list.md)
+  - [This Week in Rust](https://this-week-in-rust.org)
+  - [Fearless Rust Bloggers](https://users.rust-lang.org/t/fearless-rust-bloggers/16770)
+  - [Learning Rust: Pascal Precht](https://pascalprecht.github.io/posts/learning-rust)
+  - [Read Rust: blog post aggregator](https://readrust.net/)
+  - [Writing an OS in Rust](https://os.phil-opp.com/)
