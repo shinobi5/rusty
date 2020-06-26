@@ -2,23 +2,23 @@
 
 Resources, notes and code related to learning the rust programming language
 
-- **Books and References**
-  - [The Rust Programming Language](https://doc.rust-lang.org/book/)
-  - [CLI Apps in Rust](https://rust-cli.github.io/book/index.html)
-  - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
-  - [The Cargo Book: Rust package manager](https://doc.rust-lang.org/cargo/index.html)
-  - [The Rustonomicon: the dark arts of unsafe rust](https://doc.rust-lang.org/nomicon/)
-  - [Te Rust Reference Book](https://doc.rust-lang.org/reference/index.html)
-  - [Rust Compiler Error Index](https://doc.rust-lang.org/error-index.html)
-  - [rustdoc Book](https://doc.rust-lang.org/rustdoc/index.html)
-  - [std: standard library docs](https://doc.rust-lang.org/std/index.html)
+### Books and References
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [CLI Apps in Rust](https://rust-cli.github.io/book/index.html)
+- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+- [The Cargo Book: Rust package manager](https://doc.rust-lang.org/cargo/index.html)
+- [The Rustonomicon: the dark arts of unsafe rust](https://doc.rust-lang.org/nomicon/)
+- [Te Rust Reference Book](https://doc.rust-lang.org/reference/index.html)
+- [Rust Compiler Error Index](https://doc.rust-lang.org/error-index.html)
+- [rustdoc Book](https://doc.rust-lang.org/rustdoc/index.html)
+- [std: standard library docs](https://doc.rust-lang.org/std/index.html)
 
-- **Code and Tools**
-  - [Core Language](https://github.com/rust-lang/rust)
-  - [Cargo: package manager and build system](https://github.com/rust-lang/cargo)
-  - [rust-clippy: official linter](https://github.com/rust-lang/rust-clippy)
-  - [rust-fmt: official formatter](https://github.com/rust-lang/rustfmt)
-  - [rustc: rust compiler (inside the core language)](https://github.com/rust-lang/rust/tree/master/src/rustc)
+### Code and Tools
+- [Core Language](https://github.com/rust-lang/rust)
+- [Cargo: package manager and build system](https://github.com/rust-lang/cargo)
+- [rust-clippy: official linter](https://github.com/rust-lang/rust-clippy)
+- [rust-fmt: official formatter](https://github.com/rust-lang/rustfmt)
+- [rustc: rust compiler (inside the core language)](https://github.com/rust-lang/rust/tree/master/src/rustc)
 
 ### Academic Reseearch
 - [Memory-Safety Challenge Considered Solved? An Empirical Study with All Rust CVEs](https://arxiv.org/pdf/2003.03296.pdf)
