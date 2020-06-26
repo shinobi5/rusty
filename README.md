@@ -22,14 +22,11 @@ Resources, notes and code related to learning the rust programming language
 - [rust-fmt: official formatter](https://github.com/rust-lang/rustfmt)
 - [rustc: rust compiler (inside the core language)](https://github.com/rust-lang/rust/tree/master/src/rustc)
 
-### Academic Reseearch
+### Packages
 
-- [Memory-Safety Challenge Considered Solved? An Empirical Study with All Rust CVEs](https://arxiv.org/pdf/2003.03296.pdf)
-- [What can the programming language Rust do for astrophysics?](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B51B6DF72B7641F2352C05A502F3D881/S1743921316013168a.pdf/what_can_the_programming_language_rust_do_for_astrophysics.pdf)
-- [RustBelt: Securing the Foundations of the RustProgramming Language](https://dl.acm.org/doi/pdf/10.1145/3158154)
-- [Rust-Like Borrowing with 2nd-Class Values (Short Paper)](https://dl.acm.org/doi/pdf/10.1145/3136000.3136010)
-- [Safe Systems Programming in Rust:The Promise and the Challenge](https://robbertkrebbers.nl/research/articles/safe_programming_rust.pdf)
-- [Fearless Concurrency? Understanding Concurrent Programming Safety in Real-World Rust Software](https://arxiv.org/pdf/1902.01906.pdf)
+- [crates.io](https://crates.io/)
+- [lib.rs: alternative to crates.io](https://lib.rs/)
+- [Cloudsmith: create your own private cargo registry](https://cloudsmith.com/cargo-registry/)
 
 ### Learning
 
@@ -64,8 +61,11 @@ Resources, notes and code related to learning the rust programming language
   - Workshops
     - [Rust Bridge](https://rustbridge.com/)
 
-### Packages
+### Academic Reseearch
 
-- [crates.io](https://crates.io/)
-- [lib.rs: alternative to crates.io](https://lib.rs/)
-- [Cloudsmith: create your own private cargo registry](https://cloudsmith.com/cargo-registry/)
+- [Memory-Safety Challenge Considered Solved? An Empirical Study with All Rust CVEs](https://arxiv.org/pdf/2003.03296.pdf)
+- [What can the programming language Rust do for astrophysics?](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B51B6DF72B7641F2352C05A502F3D881/S1743921316013168a.pdf/what_can_the_programming_language_rust_do_for_astrophysics.pdf)
+- [RustBelt: Securing the Foundations of the RustProgramming Language](https://dl.acm.org/doi/pdf/10.1145/3158154)
+- [Rust-Like Borrowing with 2nd-Class Values (Short Paper)](https://dl.acm.org/doi/pdf/10.1145/3136000.3136010)
+- [Safe Systems Programming in Rust:The Promise and the Challenge](https://robbertkrebbers.nl/research/articles/safe_programming_rust.pdf)
+- [Fearless Concurrency? Understanding Concurrent Programming Safety in Real-World Rust Software](https://arxiv.org/pdf/1902.01906.pdf)
