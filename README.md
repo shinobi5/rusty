@@ -1,6 +1,6 @@
 # :smiling_imp: Learning Rust
 
-Resources, notes and code related to learning the rust programming language
+Resources, notes and code related to learning the Rust programming language
 
 ### Books and References
 
