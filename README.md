@@ -28,6 +28,10 @@ Resources, notes and code related to learning the rust programming language
 - [lib.rs: alternative to crates.io](https://lib.rs/)
 - [Cloudsmith: create your own private cargo registry](https://cloudsmith.com/cargo-registry/)
 
+### Frameworks
+
+- [Rust Web Framework Comparison](https://github.com/flosse/rust-web-framework-comparison)
+
 ### Learning
 
 - Articles
