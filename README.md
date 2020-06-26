@@ -1,5 +1,7 @@
 # :smiling_imp: Learning Rust
 
+Resources, notes and code related to learning rust 
+
 - **Books and References**
   - [The Rust Programming Language](https://doc.rust-lang.org/book/)
   - [CLI Apps in Rust](https://rust-cli.github.io/book/index.html)
