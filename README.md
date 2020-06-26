@@ -1,6 +1,6 @@
 # :smiling_imp: Learning Rust
 
-- Books and References
+- **Books and References**
   - [The Rust Programming Language](https://doc.rust-lang.org/book/)
   - [CLI Apps in Rust](https://rust-cli.github.io/book/index.html)
   - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
@@ -11,7 +11,7 @@
   - [rustdoc Book](https://doc.rust-lang.org/rustdoc/index.html)
   - [std: standard library docs](https://doc.rust-lang.org/std/index.html)
 
-- Code and Tools
+- **Code and Tools**
   - [Core Language](https://github.com/rust-lang/rust)
   - [Cargo: package manager and build system](https://github.com/rust-lang/cargo)
   - [rust-clippy: official linter](https://github.com/rust-lang/rust-clippy)
