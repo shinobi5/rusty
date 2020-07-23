@@ -1,4 +1,4 @@
-# :smiling_imp: Learning Rust
+# :keyboard: Learning Rust
 
 Resources, notes and code related to learning the Rust programming language
 
