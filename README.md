@@ -1,4 +1,4 @@
-# :keyboard: Learning Rust
+# :space_invader: Learning Rust
 
 Resources, notes and code related to learning the Rust programming language
 
