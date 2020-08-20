@@ -1,4 +1,4 @@
-# :space_invader: Learning Rust
+# :space_invader: Rusty
 
 Resources, notes and code related to learning the Rust programming language
 
