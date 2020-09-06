@@ -18,5 +18,6 @@ fn main() {
   // control_flow::for_loop::for_loop();
   // control_flow::match_statement::match_statement();
   // control_flow::combination_lock::combination_lock();
-  data_structures::structs::structs();
+  // data_structures::structs::structs();
+  data_structures::enums::enums();
 }
